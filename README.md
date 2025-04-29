@@ -1,73 +1,53 @@
-# Welcome to your Lovable project
+# Luxury Traceability Blockchain Prototype
 
-## Project info
+![Vite](https://img.shields.io/badge/Built%20with-Vite-646cff?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61dafb?logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/UI%20Framework-TailwindCSS-06b6d4?logo=tailwindcss&logoColor=white)
+![Fabric](https://img.shields.io/badge/Blockchain-Hyperledger%20Fabric-orange?logo=hyperledger)
+![ZoKrates](https://img.shields.io/badge/ZKP-zoKrates-purple?logo=ethereum&logoColor=white)
 
-**URL**: https://lovable.dev/projects/6004e990-fcf3-4ce4-90ff-1a55c4e8cf8c
+---
 
-## How can I edit this code?
+## 📜 Project Overview
 
-There are several ways of editing your application.
+This project is a **blockchain-based prototype** for **luxury product traceability**, combining:
+- Hyperledger Fabric for decentralized ledger.
+- Zero-Knowledge Proofs (ZKP) for private verification.
+- React, TailwindCSS, and Vite for a modern frontend experience.
 
-**Use Lovable**
+It showcases the **full lifecycle** of a luxury item:
+1. Registration
+2. Privacy-preserving validation
+3. Traceability querying
+4. Ownership transfer with integrity protection
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6004e990-fcf3-4ce4-90ff-1a55c4e8cf8c) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🌐 Project URL
 
-**Use your preferred IDE**
+> 🔗 (Insert your GitHub Pages URL here once deployed)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Getting Started Locally
 
-Follow these steps:
+### Prerequisites
+- Node.js (>=18.x)
+- npm (>=9.x)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+[Install Node.js using nvm (recommended)](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Setup Steps
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+# 1. Clone this repository
+git clone https://github.com/haizhouzhou/Luxury-Trace-Blockchain.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 2. Navigate into the project directory
+cd Luxury-Trace-Blockchain
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/6004e990-fcf3-4ce4-90ff-1a55c4e8cf8c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
