@@ -25,7 +25,7 @@ It showcases the **full lifecycle** of a luxury item:
 
 ## 🌐 Project URL
 
-> 🔗 (Insert your GitHub Pages URL here once deployed)
+> 🔗 (https://luxury-trace-blockchain.vercel.app/)
 
 ---
 
